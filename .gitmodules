@@ -1,0 +1,3 @@
+[submodule "onsenui-v2-angular2-minimum"]
+	path = onsenui-v2-angular2-minimum
+	url = git@github.com:monaca-templates/onsenui-v2-angular2-minimum.git
